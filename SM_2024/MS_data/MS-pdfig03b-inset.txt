@@ -1,0 +1,132 @@
+
+# Curve 0 of 4, 17 points
+# Curve title: "{/Symbol l} {/Symbol \273} 1.0"
+# x y type
+ 0  NaN  u
+ 0.8  NaN  u
+ 1.6  NaN  u
+ 2.4  NaN  u
+ 3.2  NaN  u
+ 4  NaN  u
+ 4.8  NaN  u
+ 5.6  NaN  u
+
+ 0  0  i
+ 0.8  0.13388  i
+ 1.6  0.327825  i
+ 2.4  0.387875  i
+ 3.2  0.26825  i
+ 4  0.102006  i
+ 4.8  0.030163  i
+ 5.6  0  i
+
+
+# Curve 1 of 4, 25 points
+# Curve title: "1.6"
+# x y type
+ 0  NaN  u
+ 0.8  NaN  u
+ 1.6  NaN  u
+ 2.4  NaN  u
+ 3.2  NaN  u
+ 4  NaN  u
+ 4.8  NaN  u
+ 5.6  NaN  u
+ 6.4  NaN  u
+ 7.2  NaN  u
+ 8  NaN  u
+ 8.8  NaN  u
+
+ 0  0  i
+ 0.8  0.061155  i
+ 1.6  0.14835  i
+ 2.4  0.212828  i
+ 3.2  0.238514  i
+ 4  0.232389  i
+ 4.8  0.182443  i
+ 5.6  0.097285  i
+ 6.4  0.047153  i
+ 7.2  0.020443  i
+ 8  0.009439  i
+ 8.8  0  i
+
+
+# Curve 2 of 4, 31 points
+# Curve title: "3.0"
+# x y type
+ 0  NaN  u
+ 0.8  NaN  u
+ 1.6  NaN  u
+ 2.4  NaN  u
+ 3.2  NaN  u
+ 4  NaN  u
+ 4.8  NaN  u
+ 5.6  NaN  u
+ 6.4  NaN  u
+ 7.2  NaN  u
+ 8  NaN  u
+ 8.8  NaN  u
+ 9.6  NaN  u
+ 10.4  NaN  u
+ 11.2  NaN  u
+
+ 0  0  i
+ 0.8  0.050851  i
+ 1.6  0.144876  i
+ 2.4  0.214909  i
+ 3.2  0.22308  i
+ 4  0.198918  i
+ 4.8  0.153798  i
+ 5.6  0.101252  i
+ 6.4  0.06981  i
+ 7.2  0.044473  i
+ 8  0.026739  i
+ 8.8  0.012678  i
+ 9.6  0.00646  i
+ 10.4  0.002157  i
+ 11.2  0  i
+
+
+# Curve 3 of 4, 39 points
+# Curve title: "4.0"
+# x y type
+ 0  NaN  u
+ 0.8  NaN  u
+ 1.6  NaN  u
+ 2.4  NaN  u
+ 3.2  NaN  u
+ 4  NaN  u
+ 4.8  NaN  u
+ 5.6  NaN  u
+ 6.4  NaN  u
+ 7.2  NaN  u
+ 8  NaN  u
+ 8.8  NaN  u
+ 9.6  NaN  u
+ 10.4  NaN  u
+ 11.2  NaN  u
+ 12  NaN  u
+ 12.8  NaN  u
+ 13.6  NaN  u
+ 14.4  NaN  u
+
+ 0  0  i
+ 0.8  0.024392  i
+ 1.6  0.082786  i
+ 2.4  0.155619  i
+ 3.2  0.194723  i
+ 4  0.2045  i
+ 4.8  0.176531  i
+ 5.6  0.128067  i
+ 6.4  0.099542  i
+ 7.2  0.071122  i
+ 8  0.047937  i
+ 8.8  0.029895  i
+ 9.6  0.018818  i
+ 10.4  0.010229  i
+ 11.2  0.004243  i
+ 12  0.000773  i
+ 12.8  0.000319  i
+ 13.6  0.000502  i
+ 14.4  0  i
+
