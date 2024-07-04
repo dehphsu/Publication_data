@@ -17,7 +17,7 @@ The data presented in the article and SI are stored in the following two directo
 
 2) Data plotted fin Figs.5 and 13 using vmd
 
-3) Data structure of chain configurations in *.gz files  (Data (large size) obtained from authors upon request)
+3) Data structure of chain configurations in *.gz files  (Data (large size) can be obtained from authors upon request)
    e.g. pdgbienw4_0.xyz3.gz
 ------------------------------------------------------------------------------------------------------
 # total number of monomers: 2000000 (1000*1900+1000*100)
